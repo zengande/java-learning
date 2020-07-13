@@ -3,4 +3,5 @@
 1. [Java 基础](./docs/基础.md)
 2. [Java OOP](./docs/OOP.md)
 3. [Java 类型系统](./docs/类型系统.md)
+4. [集合](./docs/集合.md)
 
